@@ -28,3 +28,8 @@ console.log(mangoPrice);
 var price = 50;
 price++;
 console.log(price);
+
+// -- means 1 reduce existing value
+var price = 50;
+price--;
+console.log(price);
