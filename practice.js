@@ -22,3 +22,13 @@ var result = AvarageMarks;
 result = result.toFixed(2);
 result = parseFloat(result);
 console.log(result);
+
+// practice problem 3
+var firstLine = "I am going to be";
+var secondLine = " an awesome web developer";
+var resultOneLine = firstLine + secondLine;
+console.log(resultOneLine);
+
+var containsNumber = 119;
+var remainder = containsNumber % 5;
+console.log(remainder);
