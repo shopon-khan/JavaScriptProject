@@ -23,3 +23,8 @@ console.log(mangoPrice);
 var mangoPrice = 50;
 mangoPrice /= 10;
 console.log(mangoPrice);
+
+// ++ means 1 pluse existing value
+var price = 50;
+price++;
+console.log(price);
